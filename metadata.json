@@ -1,0 +1,6 @@
+{
+  "name": "TruthGraph",
+  "description": "Fake news detection workspace combining NLP text analysis and social media propagation graphs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
